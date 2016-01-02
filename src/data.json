@@ -66,7 +66,7 @@
 			"https://media.giphy.com/media/JtIMv7cMRUFX2/giphy.gif",
 			"https://media.giphy.com/media/gXFpraXeKyHDi/giphy.gif",
 			"https://media.giphy.com/media/lUQxdO6Y7Vmx2/giphy.gif",
-			"https://media.giphy.com/media/KiQTBiI77Dpy8/giphy.gif",
+			"https://media.giphy.com/media/KiQTBiI77Dpy8/giphy.gif"
 		]
 	},
 	{
@@ -206,8 +206,7 @@
 	},
 	{
 		"prompt": [
-			"random",
-			"asdfjkl"
+			"random"
 		],
 		"response": [
 			"http://ravenouschan.tumblr.com/post/62427987190",

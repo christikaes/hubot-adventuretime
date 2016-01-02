@@ -1,7 +1,7 @@
 {
   "name": "hubot-adventuretime",
   "description": "A hubot script that adds Adventure Time GIFs on certain key words",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Christina <christikaes@gmail.com>",
   "license": "MIT",
 
