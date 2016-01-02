@@ -1,6 +1,7 @@
 # hubot-adventuretime
 
-A hubot script that adds Adventure Time GIFs on certain key words
+Who doesn't need more Adventure Time in thier lives?!
+This hubot script listens to over 100 key words and responds with an appropriate adventure time gif!
 
 See [`src/adventuretime.coffee`](src/adventuretime.coffee) for full documentation.
 
@@ -19,6 +20,11 @@ Then add **hubot-adventuretime** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> Anyone want to get lunch?
+hubot>> https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif
 ```
+
+## Know any good GIFs?
+
+This project is hosted on gitub!
+You can contribut prompt-response pairs here: https://github.com/christinakayastha/hubot-adventuretime/blob/master/src/data.json

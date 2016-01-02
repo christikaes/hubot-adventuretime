@@ -3,7 +3,8 @@
 		"prompt": [
 			"lunch",
 			"food",
-			"hungry"
+			"hungry",
+			"dinner"
 		],
 		"response": [
 			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif",
@@ -35,13 +36,16 @@
 			"https://media.giphy.com/media/KiQTBiI77Dpy8/giphy.gif",
 			"https://media.giphy.com/media/IJfqsM11QhUSQ/giphy.gif",
 			"https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif",
-			"https://media.giphy.com/media/GlefYMz38z4BO/giphy.gif"
+			"https://media.giphy.com/media/GlefYMz38z4BO/giphy.gif",
+			"https://media.giphy.com/media/knDQanyjNj8ME/giphy.gif",
+			"https://media.giphy.com/media/7lDKxZnag09k4/giphy.gif"
 		]
 	},
 	{
 		"prompt": [
 			"dessert",
-			"sweets"
+			"sweets",
+			"cake"
 		],
 		"response": [
 			"https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif"
@@ -57,7 +61,8 @@
 	},
 	{
 		"prompt": [
-			"sandwich"
+			"sandwich",
+			"panini"
 		],
 		"response": [
 			"https://media.giphy.com/media/uuC8bFVcRaPoA/giphy.gif",
@@ -155,7 +160,7 @@
 	},
 	{
 		"prompt": [
-			"work"
+			"hard work"
 		],
 		"response": [
 			"https://media.giphy.com/media/Ebys71phzQQx2/giphy.gif"
@@ -167,13 +172,14 @@
 			"snow"
 		],
 		"response": [
-			"https://media.giphy.com/media/7ZRg8jt2v0be0/giphy.gif"
+			"https://media.giphy.com/media/7ZRg8jt2v0be0/giphy.gif",
+			"https://media.giphy.com/media/12Ufce8oXPwwzS/giphy.gif"
 		]
 	},
 	{
 		"prompt": [
-			"coffee time",
-			"tea time"
+			"tea",
+			"coffee"
 		],
 		"response": [
 			"https://media.giphy.com/media/wZcio4ufvvdde/giphy.gif"
@@ -214,7 +220,200 @@
 			"https://media.giphy.com/media/eyfsNGtaKwB2g/giphy.gif",
 			"https://media.giphy.com/media/B5HLifNVid5vi/giphy.gif",
 			"https://media.giphy.com/media/aLqjeqkp0jUVa/giphy.gif",
-			"https://media.giphy.com/media/13N1fY7Z76U7uw/giphy.gif"
+			"https://media.giphy.com/media/13N1fY7Z76U7uw/giphy.gif",
+			"https://media.giphy.com/media/vSr0Lgose4rhS/giphy.gif",
+			"https://media.giphy.com/media/FVbsOFYqdARtS/giphy.gif",
+			"https://media.giphy.com/media/cD0IGrjYcxsti/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"dance",
+			"party",
+			"yay"
+		],
+		"response": [
+			"https://media.giphy.com/media/CLnmxQqmk6X16/giphy.gif",
+			"https://media.giphy.com/media/OJkSloXZvxuDe/giphy.gif",
+			"https://media.giphy.com/media/oxLgK1Rrubpba/giphy.gif",
+			"https://media.giphy.com/media/OSWRJKmwUEOD6/giphy.gif",
+			"https://media.giphy.com/media/L2UdIWuCRbUL6/giphy.gif",
+			"https://media.giphy.com/media/Uoyf084JYOblK/giphy.gif",
+			"https://media.giphy.com/media/ALCI3eTii7qOk/giphy.gif",
+			"https://media.giphy.com/media/13p77tfexyLtx6/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"sad",
+			"cry"
+		],
+		"response": [
+			"https://media.giphy.com/media/QPUg0x3VGlg6Q/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"congratulations"
+		],
+		"response": [
+			"https://media.giphy.com/media/9sVS967nejlqU/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"guitar",
+			"jam"
+		],
+		"response": [
+			"https://media.giphy.com/media/U8qITvpC85hyE/giphy.gif",
+			"https://media.giphy.com/media/Ue55CpP8r1lAc/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"feels"
+		],
+		"response": [
+			"https://media.giphy.com/media/oxLgK1Rrubpba/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"loud"
+		],
+		"response": [
+			"https://media.giphy.com/media/wKYRylh2cA63e/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"wow"
+		],
+		"response": [
+			"https://media.giphy.com/media/CLnmxQqmk6X16/giphy.gif",
+			"https://media.giphy.com/media/8Ry7iAVwKBQpG/giphy.gif",
+			"https://media.giphy.com/media/4TRnAFIHTjHdS/giphy.gif",
+			"https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"weight loss",
+			"lose weight",
+			"work out",
+			"gym"
+		],
+		"response": [
+			"https://media.giphy.com/media/1ZAjxhOjrSj0k/giphy.gif",
+			"https://media.giphy.com/media/e4wH4GsME7z4Q/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"got it",
+			"makes sense",
+			"understood"
+		],
+		"response": [
+			"https://media.giphy.com/media/Fbyam9ZAJ3J1m/giphy.gif",
+			"https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"unacceptable"
+		],
+		"response": [
+			"https://media.giphy.com/media/3eKdC7REvgOt2/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"hahaha",
+			"lol"
+		],
+		"response": [
+			"https://media.giphy.com/media/3oEduUbjYbk7BlOROM/giphy.gif",
+			"https://media.giphy.com/media/3oEduIqUOTDJfzhdKw/giphy.gif",
+			"https://media.giphy.com/media/j50v9vd9rbhjG/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"huh?"
+		],
+		"response": [
+			"https://media.giphy.com/media/LH4yPm9OhgHEk/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"cat",
+			"kitten"
+		],
+		"response": [
+			"https://media.giphy.com/media/Wr8ixpa7PxNks/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"walk"
+		],
+		"response": [
+			"https://media.giphy.com/media/RTXssHOXDW0Eg/giphy.gif",
+			"https://media.giphy.com/media/CnSn4fwGIrNgQ/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"uh oh",
+			"oops"
+		],
+		"response": [
+			"https://media.giphy.com/media/6Os8VPq0XKQAU/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			":3"
+		],
+		"response": [
+			"https://media.giphy.com/media/WFBNVLwsXoKqc/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"nice"
+		],
+		"response": [
+			"https://media.giphy.com/media/c5PHIq9sXsV6o/giphy.gif",
+			"https://media.giphy.com/media/bE5qi2tiSfdZu/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"omg"
+		],
+		"response": [
+			"https://media.giphy.com/media/sKCaFlEu6tpCM/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"aww"
+		],
+		"response": [
+			"https://media.giphy.com/media/iCh8iLOteYr0Q/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"lgtm",
+			"sounds good"
+		],
+		"response": [
+			"https://media.giphy.com/media/HaC3m9r4JFjPi/giphy.gif"
 		]
 	}
 ]
