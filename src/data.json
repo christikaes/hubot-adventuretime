@@ -16,7 +16,27 @@
 			"nap"
 		],
 		"response": [
-			"http://media2.giphy.com/media/UL5XfWO2TY8p2/giphy.gif"
+			"http://media2.giphy.com/media/UL5XfWO2TY8p2/giphy.gif",
+			"https://media.giphy.com/media/anFxzfBxDQbe0/giphy.gif",
+			"https://media.giphy.com/media/f31GzrGxiiU2Q/giphy.gif",
+			"https://media.giphy.com/media/VLTOzEXB783DO/giphy.gif",
+			"https://media.giphy.com/media/yHkSA9rumMny8/giphy.gif",
+			"https://media.giphy.com/media/4zUz5otJst8uA/giphy.gif",
+			"https://media.giphy.com/media/1NqATGMY8UD4I/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"random",
+			"asdfjkl"
+		],
+		"response": [
+			"http://ravenouschan.tumblr.com/post/62427987190",
+			"https://media.giphy.com/media/3jv771xceBFGU/giphy.gif",
+			"https://media.giphy.com/media/eyfsNGtaKwB2g/giphy.gif",
+			"https://media.giphy.com/media/B5HLifNVid5vi/giphy.gif",
+			"https://media.giphy.com/media/aLqjeqkp0jUVa/giphy.gif",
+			"https://media.giphy.com/media/13N1fY7Z76U7uw/giphy.gif"
 		]
 	}
 ]
