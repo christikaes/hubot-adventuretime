@@ -6,7 +6,186 @@
 			"hungry"
 		],
 		"response": [
-			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif"
+			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif",
+			"https://media.giphy.com/media/fo6vEEeAutQWI/giphy.gif",
+			"https://media.giphy.com/media/ZVBiuHYFxBSIU/giphy.gif",
+			"https://media.giphy.com/media/CWQTWHtWqSDoA/giphy.gif",
+			"https://media.giphy.com/media/MYcAP4nT5Ftrq/giphy.gif",
+			"https://media.giphy.com/media/BuGCNVTbkqrKw/giphy.gif",
+			"https://media.giphy.com/media/wU9C04uqKAP96/giphy.gif",
+			"https://media.giphy.com/media/5EqEDSL6qTEek/giphy.gif",
+			"https://media.giphy.com/media/uuC8bFVcRaPoA/giphy.gif",
+			"https://media.giphy.com/media/VjywkkECR9f68/giphy.gif",
+			"https://media.giphy.com/media/6Je8eimS0qUpy/giphy.gif",
+			"https://media.giphy.com/media/VThI0Ux4Vv1ni/giphy.gif",
+			"https://media.giphy.com/media/WnGp0s76VChKU/giphy.gif",
+			"https://media.giphy.com/media/hfgXeXeyzcIMw/giphy.gif",
+			"https://media.giphy.com/media/OUbdH955GIWbe/giphy.gif",
+			"https://media.giphy.com/media/VcEqpBnIdS4xi/giphy.gif",
+			"https://media.giphy.com/media/JtIMv7cMRUFX2/giphy.gif",
+			"https://media.giphy.com/media/CzHGGxAIS0qSA/giphy.gif",
+			"https://media.giphy.com/media/R1MYZBEos2qyI/giphy.gif",
+			"https://media.giphy.com/media/pAaz7dWI0sCs0/giphy.gif",
+			"https://media.giphy.com/media/8MTR6JIPu5bgs/giphy.gif",
+			"https://media.giphy.com/media/gXFpraXeKyHDi/giphy.gif",
+			"https://media.giphy.com/media/lUQxdO6Y7Vmx2/giphy.gif",
+			"https://media.giphy.com/media/XGhmqVqUlmAwg/giphy.gif",
+			"https://media.giphy.com/media/xwEbNBmhyLDAA/giphy.gif",
+			"https://media.giphy.com/media/zzGluVQkDjQXe/giphy.gif",
+			"https://media.giphy.com/media/KiQTBiI77Dpy8/giphy.gif",
+			"https://media.giphy.com/media/IJfqsM11QhUSQ/giphy.gif",
+			"https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif",
+			"https://media.giphy.com/media/GlefYMz38z4BO/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"dessert",
+			"sweets"
+		],
+		"response": [
+			"https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"breakfast"
+		],
+		"response": [
+			"https://media.giphy.com/media/IJfqsM11QhUSQ/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"sandwich"
+		],
+		"response": [
+			"https://media.giphy.com/media/uuC8bFVcRaPoA/giphy.gif",
+			"https://media.giphy.com/media/fo6vEEeAutQWI/giphy.gif",
+			"https://media.giphy.com/media/VjywkkECR9f68/giphy.gif",
+			"https://media.giphy.com/media/JtIMv7cMRUFX2/giphy.gif",
+			"https://media.giphy.com/media/gXFpraXeKyHDi/giphy.gif",
+			"https://media.giphy.com/media/lUQxdO6Y7Vmx2/giphy.gif",
+			"https://media.giphy.com/media/KiQTBiI77Dpy8/giphy.gif",
+		]
+	},
+	{
+		"prompt": [
+			"spagetti",
+			"noodles"
+		],
+		"response": [
+			"https://media.giphy.com/media/5EqEDSL6qTEek/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"plant",
+			"flower"
+		],
+		"response": [
+			"https://media.giphy.com/media/BuGCNVTbkqrKw/giphy.gif",
+			"https://media.giphy.com/media/6Je8eimS0qUpy/giphy.gif"
+
+		]
+	},
+	{
+		"prompt": [
+			"burritto",
+			"chipotle"
+		],
+		"response": [
+			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif",
+			"https://media.giphy.com/media/zzGluVQkDjQXe/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"nacho",
+			"chipotle"
+		],
+		"response": [
+			"https://media.giphy.com/media/CzHGGxAIS0qSA/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"pizza",
+			"code freeze"
+		],
+		"response": [
+			"https://media.giphy.com/media/WnGp0s76VChKU/giphy.gif",
+			"https://media.giphy.com/media/hfgXeXeyzcIMw/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"icecream",
+			"ice-cream"
+		],
+		"response": [
+			"https://media.giphy.com/media/OUbdH955GIWbe/giphy.gif",
+			"https://media.giphy.com/media/nrfl4U7u8QEz6/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"chocolate",
+			"candy"
+		],
+		"response": [
+			"https://media.giphy.com/media/8MTR6JIPu5bgs/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"movie"
+		],
+		"response": [
+			"https://media.giphy.com/media/VcEqpBnIdS4xi/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"bacon"
+		],
+		"response": [
+			"https://media.giphy.com/media/xwEbNBmhyLDAA/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"work"
+		],
+		"response": [
+			"https://media.giphy.com/media/Ebys71phzQQx2/giphy.gif"
+		]
+	},	
+	{
+		"prompt": [
+			"cold",
+			"snow"
+		],
+		"response": [
+			"https://media.giphy.com/media/7ZRg8jt2v0be0/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"coffee time",
+			"tea time"
+		],
+		"response": [
+			"https://media.giphy.com/media/wZcio4ufvvdde/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"me too",
+			"who"
+		],
+		"response": [
+			"https://media.giphy.com/media/GwsjDGrSCTY5O/giphy.gif"
 		]
 	},
 	{
