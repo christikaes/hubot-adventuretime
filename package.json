@@ -1,7 +1,7 @@
 {
   "name": "hubot-adventuretime",
   "description": "A hubot script that adds Adventure Time GIFs on certain key words",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Christina <christikaes@gmail.com>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-adventuretime.git"
+    "url": "https://github.com/christinakayastha/hubot-adventuretime"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-adventuretime/issues"
+    "url": "https://github.com/christinakayastha/hubot-adventuretime/issues"
   },
 
   "dependencies": {
