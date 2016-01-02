@@ -1,0 +1,22 @@
+[
+	{
+		"prompt": [
+			"lunch",
+			"food",
+			"hungry"
+		],
+		"response": [
+			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"sleepy",
+			"tired",
+			"nap"
+		],
+		"response": [
+			"http://media2.giphy.com/media/UL5XfWO2TY8p2/giphy.gif"
+		]
+	}
+]

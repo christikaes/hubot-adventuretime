@@ -2,21 +2,26 @@
 #   A hubot script that adds Adventure Time GIFs on certain key words
 #
 # Configuration:
-#   LIST_OF_ENV_VARS_TO_SET
+#   The prompt-response pairs are defined in data.json
 #
 # Commands:
-#   hubot hello - <what the respond trigger does>
-#   orly - <what the hear trigger does>
+#   XX - <returns adventure time GIF about XX>
 #
 # Notes:
-#   <optional notes required for the script>
+#   you can change the prompt-response in the data file
 #
 # Author:
-#   Christina[@<org>]
+#   Christina[@ChrisBin]
+
+data = require './data.json'
 
 module.exports = (robot) ->
-  robot.respond /hello/, (msg) ->
-    msg.reply "hello!"
+  # Add response when hearing corresponding font
+  addResponse = (d) ->
+    regexTemplate = d.prompt.join('|')
+    regex = new RegExp regexTemplate, 'gi'
+    robot.hear regex, (msg) ->
+      msg.send msg.random d.response
 
-  robot.hear /orly/, ->
-    msg.send "yarly"
+  for d in data
+    addResponse(d)
