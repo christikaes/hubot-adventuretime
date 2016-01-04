@@ -1,7 +1,7 @@
 # hubot-adventuretime
 
-Who doesn't need more Adventure Time in thier lives?!
-This hubot script listens to ~70 key words and responds with an appropriate Adventure Time gif!
+Who doesn't need more Adventure Time in their lives?!
+This hubot script listens to ~76 key words and responds with an appropriate Adventure Time gif!
 
 See [`src/adventuretime.coffee`](src/adventuretime.coffee) for full documentation.
 

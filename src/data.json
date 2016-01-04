@@ -4,7 +4,8 @@
 			"lunch",
 			"food",
 			"hungry",
-			"dinner"
+			"dinner",
+			"eat"
 		],
 		"response": [
 			"https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif",
@@ -77,6 +78,8 @@
 	{
 		"prompt": [
 			"spagetti",
+			"spaghetti",
+			"pasta",
 			"noodles"
 		],
 		"response": [
@@ -97,6 +100,7 @@
 	{
 		"prompt": [
 			"burritto",
+			"burrito",
 			"chipotle"
 		],
 		"response": [
@@ -126,7 +130,8 @@
 	{
 		"prompt": [
 			"icecream",
-			"ice-cream"
+			"ice-cream",
+			"ice cream"
 		],
 		"response": [
 			"https://media.giphy.com/media/OUbdH955GIWbe/giphy.gif",
@@ -197,6 +202,7 @@
 	{
 		"prompt": [
 			"sleepy",
+			"sleep",
 			"tired",
 			"nap"
 		],
@@ -253,7 +259,8 @@
 	},
 	{
 		"prompt": [
-			"congratulations"
+			"congratulations",
+			"congrats"
 		],
 		"response": [
 			"https://media.giphy.com/media/9sVS967nejlqU/giphy.gif"
@@ -279,7 +286,9 @@
 	},
 	{
 		"prompt": [
-			"loud"
+			"loud",
+			"shutup",
+			"shut up"
 		],
 		"response": [
 			"https://media.giphy.com/media/wKYRylh2cA63e/giphy.gif"
@@ -301,6 +310,7 @@
 			"weight loss",
 			"lose weight",
 			"work out",
+			"workout",
 			"gym"
 		],
 		"response": [
@@ -330,7 +340,9 @@
 	{
 		"prompt": [
 			"hahaha",
-			"lol"
+			"lol",
+			"lmao",
+			"rofl"
 		],
 		"response": [
 			"https://media.giphy.com/media/3oEduUbjYbk7BlOROM/giphy.gif",
@@ -409,7 +421,8 @@
 	{
 		"prompt": [
 			"lgtm",
-			"sounds good"
+			"sounds good",
+			"thumbs up"
 		],
 		"response": [
 			"https://media.giphy.com/media/HaC3m9r4JFjPi/giphy.gif"
