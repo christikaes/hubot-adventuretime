@@ -1,7 +1,7 @@
 # hubot-adventuretime
 
 Who doesn't need more Adventure Time in thier lives?!
-This hubot script listens to ~70 key words and responds with an appropriate adventure time gif!
+This hubot script listens to ~70 key words and responds with an appropriate Adventure Time gif!
 
 See [`src/adventuretime.coffee`](src/adventuretime.coffee) for full documentation.
 
@@ -32,4 +32,4 @@ hubot>>	https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif
 ## Know any good GIFs?
 
 This project is hosted on gitub!
-You can contribut prompt-response pairs here: https://github.com/christinakayastha/hubot-adventuretime/blob/master/src/data.json
+You can contribute prompt-response pairs here: https://github.com/christinakayastha/hubot-adventuretime/blob/master/src/data.json
