@@ -24,6 +24,11 @@ user1>> Anyone want to get lunch?
 hubot>> https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif
 ```
 
+```
+user1>> There's some cake in the kitchen!
+hubot>>	https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif
+```
+
 ## Know any good GIFs?
 
 This project is hosted on gitub!
