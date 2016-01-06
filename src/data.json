@@ -218,7 +218,7 @@
 	},
 	{
 		"prompt": [
-			"random"
+			"asdf"
 		],
 		"response": [
 			"https://media.giphy.com/media/3jv771xceBFGU/giphy.gif",
@@ -340,7 +340,6 @@
 	{
 		"prompt": [
 			"hahaha",
-			"lol",
 			"lmao",
 			"rofl"
 		],
