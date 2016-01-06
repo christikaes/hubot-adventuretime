@@ -426,5 +426,40 @@
 		"response": [
 			"https://media.giphy.com/media/HaC3m9r4JFjPi/giphy.gif"
 		]
+	},
+	{
+		"prompt": [
+			"shmowzow"
+		],
+		"response": [
+			"https://media.giphy.com/media/Tsu0lZyzHA6E8/giphy.gif"
+		]
+	},
+	{
+		"prompt": [
+			"algebraic"
+		],
+		"response": [
+			"https://media.giphy.com/media/12xTnmrilAVTGw/giphy.gif"
+		]
+	},
+	{
+		{
+		"prompt": [
+			"mathematical"
+		],
+		"response": [
+			"https://media.giphy.com/media/9lMoyThpKynde/giphy.gif"
+		]
+	},
+	{
+		{
+		"prompt": [
+			"dance",
+			"dancing"
+		],
+		"response": [
+			"https://media.giphy.com/media/xYVvUN8BBUbuw/giphy.gif"
+		]
 	}
 ]
