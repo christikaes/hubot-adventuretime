@@ -18,8 +18,8 @@ data = require './data.json'
 module.exports = (robot) ->
   # Add response when hearing corresponding font
   addResponse = (d) ->
-    regexTemplate = d.prompt.join('|')
-    regex = new RegExp regexTemplate, 'gi'
+    regexTemplate = '.*\\b' + d.prompt.join('\\b|\\b') + '\\b.*'
+    regex = new RegExp regexTemplate, 'i'
     robot.hear regex, (msg) ->
       msg.send msg.random d.response
 
