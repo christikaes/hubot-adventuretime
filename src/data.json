@@ -351,14 +351,6 @@
 	},
 	{
 		"prompt": [
-			"huh?"
-		],
-		"response": [
-			"https://media.giphy.com/media/LH4yPm9OhgHEk/giphy.gif"
-		]
-	},
-	{
-		"prompt": [
 			"cat",
 			"kitten"
 		],
