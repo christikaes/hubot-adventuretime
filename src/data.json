@@ -451,5 +451,15 @@
 		"response": [
 			"https://media.giphy.com/media/xYVvUN8BBUbuw/giphy.gif"
 		]
+	},
+	{
+		"prompt": [
+			"brows",
+			"eyebrows"
+		],
+		"response": [
+			"https://s-media-cache-ak0.pinimg.com/originals/48/39/d6/4839d62a836da1a93bfa70ba801ebd65.jpg",
+			"https://s-media-cache-ak0.pinimg.com/originals/83/56/12/8356121d7588af0c70acc282c6f00d43.jpg"
+		]
 	}
 ]
