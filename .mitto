@@ -1,0 +1,10 @@
+{
+  "name" : "adventuretime.config",
+  "optional: {
+    "messageThreshold" : {
+      "type" : "number",
+      "description" : "Number of triggers hubot has to reach before actually sending an adventure time gif.",
+      "default" : 0
+    }
+  }
+}
