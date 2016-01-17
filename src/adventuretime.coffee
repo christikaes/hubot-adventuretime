@@ -27,6 +27,7 @@ module.exports = (robot) ->
     robot.hear regex, (msg) ->
       count = robot.brain.get 'messageCount'
       count++;
+      robot.brain.set 'messageCount', count
       if count >= config.messageThreshold
        robot.brain.set 'messageCount', 0
        msg.send msg.random d.response
