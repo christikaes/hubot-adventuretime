@@ -28,7 +28,15 @@ hubot>> https://media.giphy.com/media/fVQkNYbtn49mo/giphy.gif
 user1>> There's some cake in the kitchen!
 hubot>>	https://media.giphy.com/media/mqlCGU6h3xUvm/giphy.gif
 ```
+## Want to configure how often Hubot responds?
+Drop an ```adventuretime.config``` into your root hubot directory and add a "messageThreshold" property. ```messageThreshold``` is the number of times hubot must "hear" an AdventureTime triggering message before actually responding.
 
+Example ```adventuretime.config``` for only responding once for every 5 "triggering" messages:
+```
+{
+  "messageThreshold" : 5
+}
+```
 ## Know any good GIFs?
 
 This project is hosted on gitub!
